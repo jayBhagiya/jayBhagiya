@@ -5,7 +5,7 @@
 - 🔭 I'm currently pursuing B.Tech in **Information and Communication Technology** from **Pandit Deendayal Energy University**.
 - 🌱 I’m currently learning AI/ML and Robotics Operating System (ROS).
 - 👯 I’m always ready to collaborate in open source projects.
-- 🥅 2021 Goals: Learn emerging technology.
+- 🥅 2021 Goals: Learn emerging technologies.
 
 
 ### Connect with me:
