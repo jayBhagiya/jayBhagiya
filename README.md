@@ -11,6 +11,10 @@
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | Discord" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" alt="codeSTACKr | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="35px" src="https://img.icons8.com/ios/50/000000/link--v1.png" />][website]
+<!-- <img src="https://img.icons8.com/ios/50/000000/link--v1.png"/> -->
+
 
 <br />
 
@@ -21,7 +25,7 @@
 [<img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sublimetext.svg" />][sublime]
 [<img align="left" alt="Git" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Github]
 [<img align="left" alt="Terminal" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gnubash.svg" />][bash]
-[<img align="left" alt="ROS" width="45px" src="https://www.worksonarm.com/wp-content/uploads/2017/09/ROS-Logo.png" />][ROS]
+[<img align="left" alt="ROS" width="110px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/1080px-Ros_logo.svg.png" />][ROS]
 [<img align="left" alt="Python" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/arduino.svg" />][arduino]
 [<img align="left" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
 
@@ -31,6 +35,8 @@
 
 ***
 
+[website]: https://jaybhagiya.github.io/
+[linkedin]: https://www.linkedin.com/in/jay-bhagiya-7b2922176/
 [instagram]: https://instagram.com/jay.bhagiya
 [discord]: https://discord.gg/jay.bhagiya#9593
 [Github]: https://github.com/
