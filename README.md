@@ -51,7 +51,7 @@
 
 <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=jayBhagiya&show_icons=true" alt="jayBhagiya" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayBhagiya&langs_count=8)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayBhagiya&langs_count=8) -->
 
 <!--
 **jayBhagiya/jayBhagiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
