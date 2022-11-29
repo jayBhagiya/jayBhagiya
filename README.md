@@ -1,58 +1,29 @@
 ## Hi there, I'm Jay Bhagiya 👋
 
-### I'm a Student and a Coding Enthusiast!!
-
-- 🔭 I'm currently pursuing B.Tech in **Information and Communication Technology** from **Pandit Deendayal Energy University**.
-- 🌱 I’m currently learning AI/ML and Robotics Operating System (ROS).
-- 👯 I’m always ready to collaborate in open source projects.
-- 🥅 2021 Goals: Learn emerging technologies.
-
+- 🔭 I'm currently working as a Research Assistant at **Indian Institute of Science, Bangalore**.
+- 🌱 I’m into Machine Learning and MLOps.
+- 👯 I like to contribute to open-source projects.
+- 🥅 Checkout my [website](https://jaybhagiya.github.io/) for detailed information about my work.
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | Discord" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-[<img align="left" alt="codeSTACKr | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="35px" src="https://img.icons8.com/ios/50/000000/link--v1.png" />][website]
-<!-- <img src="https://img.icons8.com/ios/50/000000/link--v1.png"/> -->
-
-
-<br />
-
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vs-code]
-[<img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sublimetext.svg" />][sublime]
-[<img align="left" alt="Git" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Github]
-[<img align="left" alt="Terminal" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gnubash.svg" />][bash]
-[<img align="left" alt="ROS" width="110px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/1080px-Ros_logo.svg.png" />][ROS]
-[<img align="left" alt="Python" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/arduino.svg" />][arduino]
-[<img align="left" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
-
-
-<br />
-<br />
-
-***
+[![Gmail Badge](https://img.shields.io/badge/-jaybhagiya%40outlook.com-white?style=flat&logo=microsoftoutlook&logoColor=blue)](mailto:jaybhagiya@outlook.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-jay--bhagiya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jay-bhagiya-7b2922176/ "Connect on LinkedIn")
+[![Stackoverflow Badge](https://img.shields.io/badge/-jaybhagiya-orange?style=flat&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/18001058/jay-b "Ask Questions")
 
 [website]: https://jaybhagiya.github.io/
 [linkedin]: https://www.linkedin.com/in/jay-bhagiya-7b2922176/
 [instagram]: https://instagram.com/jay.bhagiya
-[discord]: https://discord.gg/jay.bhagiya#9593
-[Github]: https://github.com/
-[ROS]: https://www.ros.org/install/
-[python]: https://www.python.org/
-[vs-code]: https://code.visualstudio.com/
-[sublime]: https://www.sublimetext.com/
-[arduino]: https://www.arduino.cc/
-[bash]: https://en.wikipedia.org/wiki/Bash_(Unix_shell)
+[mail]: mailto:jaybhagiya@outlook.com
 
 ![Github visitor](https://visitor-badge.laobi.icu/badge?page_id=jayBhgaiya.jayBhgaiya)   ![GitHub followers](https://img.shields.io/github/followers/jayBhagiya?label=Follow&style=social)
 
-<img src="https://github-readme-stats-five-lyart.vercel.app/api?username=jayBhagiya&show_icons=true" alt="jayBhagiya" />
+<details>
+  <summary>My Github Public Stats :computer:</summary>
+  
+  <br>
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api?username=jayBhagiya&show_icons=true&theme=dark)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayBhagiya&langs_count=8) -->
-
-<!--
-**jayBhagiya/jayBhagiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayBhagiya)](https://github.com/jayBhagiya/github-readme-stats)
+  
+</details>
