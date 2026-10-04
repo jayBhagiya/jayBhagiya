@@ -1,29 +1,21 @@
-## Hi there, I'm Jay Bhagiya 👋
+## Hi, I'm Jay Bhagiya 👋
 
-- 🔭 I'm currently working as a Research Assistant at **Indian Institute of Science, Bangalore**.
-- 🌱 I’m into Machine Learning and MLOps.
-- 👯 I like to contribute to open-source projects.
-- 🥅 Checkout my [website](https://jaybhagiya.github.io/) for detailed information about my work.
+Research Assistant at ZeMA gGmbH and MSc Computer Science student at Saarland University, Saarbrücken. I work on robotics, learning-based planning, motion planning, and safe control.
 
-### Connect with me:
-[![Gmail Badge](https://img.shields.io/badge/-jaybhagiya%40outlook.com-white?style=flat&logo=microsoftoutlook&logoColor=blue)](mailto:jaybhagiya@outlook.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-jay--bhagiya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jay-bhagiya-7b2922176/ "Connect on LinkedIn")
-[![Stackoverflow Badge](https://img.shields.io/badge/-jaybhagiya-orange?style=flat&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/18001058/jay-b "Ask Questions")
+My research, publications, and project write-ups are on **[jaybhagiya.me](https://jaybhagiya.me)**.
 
-[website]: https://jaybhagiya.github.io/
-[linkedin]: https://www.linkedin.com/in/jay-bhagiya-7b2922176/
-[instagram]: https://instagram.com/jay.bhagiya
-[mail]: mailto:jaybhagiya@outlook.com
+### Projects
 
-![Github visitor](https://visitor-badge.laobi.icu/badge?page_id=jayBhgaiya.jayBhgaiya)   ![GitHub followers](https://img.shields.io/github/followers/jayBhagiya?label=Follow&style=social)
+- [ml4nlp](https://github.com/jayBhagiya/ml4nlp): a Graph Transformer in PyTorch Geometric, ablated on PATTERN
+- [rl-course](https://github.com/jayBhagiya/rl-course): reinforcement learning from fixed policies to deep Q-networks
+- [hlcv-project](https://github.com/jayBhagiya/hlcv-project): synthetic-to-real image translation for driving scenes
+- [nnti-project](https://github.com/jayBhagiya/nnti-project): parameter-efficient adaptation of XGLM to Quechua
+- [exml-seminar](https://github.com/jayBhagiya/exml-seminar): Integrated Gradients across images, text, and molecular graphs
+- [AdaGrad-with-grad-difference](https://github.com/jayBhagiya/AdaGrad-with-grad-difference): AdaGrad and Adam with gradient-difference denominators
+- [ipcv-cpp](https://github.com/jayBhagiya/ipcv-cpp): classical image processing in dependency-free C++20
 
-<details>
-  <summary>My Github Public Stats :computer:</summary>
-  
-  <br>
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api?username=jayBhagiya&show_icons=true&theme=dark)
+### Connect
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayBhagiya)](https://github.com/jayBhagiya/github-readme-stats)
-  
-</details>
+[![Website](https://img.shields.io/badge/-jaybhagiya.me-black?style=flat&logo=googlechrome&logoColor=white)](https://jaybhagiya.me "Website")
+[![Email](https://img.shields.io/badge/-jaybhagiya20%40gmail.com-white?style=flat&logo=gmail&logoColor=red)](mailto:jaybhagiya20@gmail.com "Email")
+[![LinkedIn](https://img.shields.io/badge/-jay--bhagiya-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-bhagiya/ "LinkedIn")
